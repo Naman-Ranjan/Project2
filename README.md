@@ -54,7 +54,7 @@ The project uses **Python, SQL, and Power BI** to transform raw customer data in
 
 ## 📊 Dashboard
 
-![Customer Shopping Behavior Dashboard](images/dashboard.png)
+<img src="Capture.png" alt="Customer Shopping Behavior Dashboard" width="900">
 
 ## 📁 Project Files
 
